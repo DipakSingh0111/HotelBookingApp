@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <h1>Hotel Booking App...</h1>
+      <h1 class="text-3xl font-bold bg-amber-500">
+        Hello world!
+      </h1>
     </>
   )
 }
